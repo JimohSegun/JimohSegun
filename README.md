@@ -6,7 +6,12 @@ Hi there<br>![](https://user-images.githubusercontent.com/18350557/176309783-078
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/segun-jimoh/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/jimohThompson) 
 
 # 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)![SQL](https://img.shields.io/badge/SQL-%23025E8C.svg?style=for-the-badge&logo=amazon-dynamodb&logoColor=white)![Microsoft Power BI](https://img.shields.io/badge/Microsoft_Power_BI-%23F2C811.svg?style=for-the-badge&logo=microsoft-power-bi&logoColor=white)![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)![Seaborn](https://img.shields.io/badge/Seaborn-%230A3C4D.svg?style=for-the-badge&logo=seaborn&logoColor=white)
+
+
+
+
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=JimohSegun&theme=radical&hide_border=true&include_all_commits=false&count_private=true)<br/>
